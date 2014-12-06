@@ -1,4 +1,7 @@
-Fidonet-slogans
-===============
+This repository contains slogans that can be used to promote [Fidonet](https://en.wikipedia.org/wiki/FidoNet).
 
-Slogans that promote Fidonet
+## License
+
+The nature of slogans dictate that they are often exclaimed or written where any attribution is not possible.
+
+In order to facilitate this, to the extent possible under law, all copyright and related or neighboring rights to these slogans are waived. (This is a [CC0 1.0 Universal Public Domain Dedication](http://creativecommons.org/publicdomain/zero/1.0/).)
