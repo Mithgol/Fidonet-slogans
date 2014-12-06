@@ -10,6 +10,9 @@ The slogans are given in an arbitrary order.
 
 * Fidonet: we are the Net.
 
+* Stop the future.
+   * Partially a cultural reference to the role of Fidonet in Jonathan Zittrain's “[The Future of the Internet — And How to Stop It](http://futureoftheinternet.org/)”.
+
 ## License
 
 The nature of slogans dictate that they are often exclaimed or written where any attribution is not possible.
