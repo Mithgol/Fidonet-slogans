@@ -13,6 +13,8 @@ The slogans are given in an arbitrary order.
 * Stop the future.
    * Partially a cultural reference to the role of Fidonet in Jonathan Zittrain's “[The Future of the Internet — And How to Stop It](http://futureoftheinternet.org/)”.
 
+* Extend the cyberspace.
+
 ## License
 
 The nature of slogans dictate that they are often exclaimed or written where any attribution is not possible.
