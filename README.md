@@ -15,6 +15,9 @@ The slogans are given in an arbitrary order.
 
 * Extend the cyberspace.
 
+* Make Fidonet great again.
+   * Partially a cultural reference to the [slogan](https://en.wikipedia.org/wiki/Make_America_Great_Again) of Ronald Reagan and Donald Trump.
+
 ## License
 
 The nature of slogans dictate that they are often exclaimed or written where any attribution is not possible.
